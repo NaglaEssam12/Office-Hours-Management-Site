@@ -14,4 +14,4 @@
   - You have any IDE for Java like netbeans and then install the libraries that exist in folder
   - You have My sql to run data base
   # Technologies that we use:-
-   JHTML, CSS, JSP, Java, Sessions, Jquiry, Ajax and My sql.
+   HTML, CSS, JSP, Java, Sessions, Jquiry, Ajax and MySql.
