@@ -6,6 +6,7 @@
   This project tries to address this problem.
   There are two user groups which are “Students” and “staff Members.
   For each member there are some functionalities:
+  
     Student :- 
       - Find staff of each subject. 
       - Reserve an appointment with staff member at specific slot and date.
