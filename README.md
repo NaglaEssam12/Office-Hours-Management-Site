@@ -10,6 +10,7 @@
       - Find staff of each subject. 
       - Reserve an appointment with staff member at specific slot and date.
       - Message staff member of specific subject (specific TA, Dr or all subject Tas) directly.
+      
     Staff Member :- 
       - View and reply to students’ messages. 
       - Cancel slot reservations on a specific date or all the slots on a certain day.
